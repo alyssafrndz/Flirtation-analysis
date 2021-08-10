@@ -36,7 +36,7 @@ from google.colab import files
 uploaded = files.upload()
 
 df = pd.read_csv("flirting_rated.csv")
-test = pd.read_csv("test_cv.csv")
+test = pd.read_csv("/.csv")
 
 # Extra cleaning
 df = df.dropna()
