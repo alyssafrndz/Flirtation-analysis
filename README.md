@@ -23,7 +23,7 @@ The training data contains ~2800 unique messages and is labeled *flirting_rated.
 
 The training data contains two columns— polarity and final_messages. The polarity was manually rated by humans (Thank you, Carson) and ranges between 0 = no flirtation and 1 = flirtation. The original dataset contained 3000 messages but rows with personal information was removed to protect privacy.
 
-The testing data does not contain a polarity score.
+The testing data is not included in this repository since the personal information was not removed.
 
 
 
